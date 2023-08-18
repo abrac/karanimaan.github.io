@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+show_title: true
 ---
 
 # LOADSHEDDING MAPS APP

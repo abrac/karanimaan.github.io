@@ -2,6 +2,7 @@
 nav-menu: true
 layout: page
 title: Biography
+show_title: true
 ---
 
 I have a mind for analytic reasoning, which is one of the key attributes of an
