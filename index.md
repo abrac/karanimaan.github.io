@@ -1,11 +1,7 @@
 ---
 layout: home
-landing-title: 'ePortfolio'
-title: test
-description: null
-image: null
-author: null
-show_title: false
+title: myTitle
+show_tile: false
 ---
 
 ### Welcome to my ePortfolio! Navigate using the menu at the top right of this page.
